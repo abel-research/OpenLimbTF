@@ -23,7 +23,7 @@ The Machine Learning method Principal Component Analysis (PCA) has been used to 
 
 This dataset is intended to allow the research community to perform more statistically robust prosthetic biomechanics research, without the costs, inconvenience, and risk of putting our relatively small community of eligible research participants through medical imaging.
 
-The first OpenLimbTF Version-2025-XX is based upon XX training datasets, X female and X male of a variety of ethnicities (X White European/US, X Hispanic, X Native American, X African American, and X not recorded). 
+The first OpenLimbTF Version-2025-05 is based upon 7 training datasets, 1 female and 6 male of a variety of ethnicities (5 White European/US, 2 Hispanic). 
 
 You can download the model's mean shape, and virtual patient shapes covering 95% of training dataset variation in residual limb length and soft tissue bulbous-conical profile, as .stl files. These are normalised to the fractional intact length of the femur, so should be scaled up to the desired intact femur length.
 
@@ -40,7 +40,7 @@ OpenLimb Group Membership
 --------
 
 At the time of writing, the OpenLimb Group includes:
-- Dr Jennifer Bramley, Prof Alex Dickinson, Prof Cheryl Metcalf, Prof Adam Sobey, Dr Joshua Steer, Fiona Sunderland, and Prof Peter Worsley (University of Southampton, UK),
+- Dr Jennifer Bramley, Prof Alex Dickinson, Prof Cheryl Metcalf, Karol Pasternak, Prof Adam Sobey, Dr Joshua Steer, Fiona Sunderland, and Prof Peter Worsley (University of Southampton, UK),
 - Dr Rami Al-Dirini (Flinders University, Australia),
 - Dr Reza Safari (University of Derby, UK),
 - Dr Graci Finco (The University of North Texas, USA),
@@ -53,7 +53,6 @@ Funding
 
 The research behind this dataset was funded by the following organisations:
 - the Royal Academy of Engineering (RAEng), UK (grant no. RF/130 (A Dickinson))
-- the Engineering & Physical Sciences Research Council (EPSRC), UK (grant nos. EP/S02249X/1 Centre for Doctoral Training in Prosthetics & Orthotics (F Sunderland), EP/N509747/1 (J Bramley), EP/M508147/1 (J Steer))
 - the Alan Turing Institute, UK (grant no. EP/N510129/1 (A Dickinson, A Sobey))
 - the US National Institute of Justice (grant no. 2016-DN-BX-0144 (The Free Access Decedent Database))
 
