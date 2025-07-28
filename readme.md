@@ -23,7 +23,7 @@ The Machine Learning method Principal Component Analysis (PCA) has been used to 
 
 This dataset is intended to allow the research community to perform more statistically robust prosthetic biomechanics research, without the costs, inconvenience, and risk of putting our relatively small community of eligible research participants through medical imaging.
 
-The first OpenLimbTF Version-2025-05 is based upon 7 training datasets, 1 female and 6 male of a variety of ethnicities (5 White European/US, 2 Hispanic). 
+The first OpenLimbTF Version-2025-05 is based upon 7 training datasets, 1 female and 6 male of a variety of ethnicities (5 White European/US, 2 Latino). 
 
 You can download the model's mean shape, and virtual patient shapes covering 95% of training dataset variation in residual limb length and soft tissue bulbous-conical profile, as .stl files. These are normalised to the fractional intact length of the femur, so should be scaled up to the desired intact femur length.
 
